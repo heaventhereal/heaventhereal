@@ -17,7 +17,7 @@
 ![Q4OS](https://img.shields.io/badge/Q4OS-557C94?style=for-the-badge&logo=q4os&logoColor=white)
 
 ## I'm currently learning
-<p align="left"> <a href="https://github.com/heaventhereal"><img src="[https://skillicons.dev/icons?i=vscode,replit,github,html,js,python,bots,nodejs,discord](https://skillicons.dev/icons?i=rust,c++)"> </a> </p>
+<p align="left"> <a href="https://github.com/heaventhereal"><img src="[https://skillicons.dev/icons?i=rust,c++)"> </a> </p>
 
 <!--
 **heaventhereal/heaventhereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. https://discord.gg/yFgjXbG9zm
