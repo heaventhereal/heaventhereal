@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/heaventhereal"><img src="https://skillicons.dev/icons?i=vscode,github,python,java"> <a href="https://discord.gg/yFgjXbG9zm"><img src="https://skillicons.dev/icons?i=discord"> </a> </p>
 
-##What OSs I Use
+## What OSs I Use
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
