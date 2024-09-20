@@ -1,4 +1,11 @@
 ## Hi there 👋
+
+## What I'm Doing
+
+- 🔭 Working on [Websites](https://douxx.xyz/douxx)/[Discord Bots](https://douxx.xyz)/[Utilities](https://piwave.hs.vc) development
+- 🌱 Learning Node.js & Python
+- 📫 How to contact me: [join here:](https://discord.gg/yFgjXbG9zm)
+- 
 ## Languages and Tools
 
 <p align="left"> <a href="https://github.com/heaventhereal"><img src="https://skillicons.dev/icons?i=vscode,github,python,java"> <a href="https://discord.gg/yFgjXbG9zm"><img src="https://skillicons.dev/icons?i=discord"> </a> </p>
