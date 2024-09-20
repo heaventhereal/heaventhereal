@@ -1,10 +1,10 @@
 ## Hi there, I'm Yech 👋
 
-## What I'm Doing
+## What I'm working on
 
 -  Working on [**play.echomc.it** ](https://discord.gg/4maur2sMBb)
--  Learning c++ and java
--  How to contact me: [join here](https://discord.gg/yFgjXbG9zm)
+-  Minecraft Plugins
+-  How to contact me: **[join here](https://discord.gg/yFgjXbG9zm)**
  
 ## Languages and Tools
 
@@ -15,6 +15,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Q4OS](https://img.shields.io/badge/Q4OS-557C94?style=for-the-badge&logo=q4os&logoColor=white)
+
+## I'm currently learning
+<p align="left"> <a href="https://github.com/heaventhereal"><img src="[https://skillicons.dev/icons?i=vscode,replit,github,html,js,python,bots,nodejs,discord](https://skillicons.dev/icons?i=rust,c++)"> </a> </p>
 
 <!--
 **heaventhereal/heaventhereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. https://discord.gg/yFgjXbG9zm
