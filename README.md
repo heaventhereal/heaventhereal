@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/heaventhereal"><img src="https://skillicons.dev/icons?i=vscode,github,python,java"> </a> </p> <a href="https://discord.gg/yFgjXbG9zm"><img src="[discord](https://skillicons.dev/icons?i=all)"> </a> </p>
+<p align="left"> <a href="https://github.com/heaventhereal"><img src="https://skillicons.dev/icons?i=vscode,github,python,java"> </a> </p> <a href="https://discord.gg/yFgjXbG9zm"><img src="https://skillicons.dev/icons?i=discord"> </a> </p>
 
 <!--
 **heaventhereal/heaventhereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. https://discord.gg/yFgjXbG9zm
