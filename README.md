@@ -2,9 +2,9 @@
 
 ## What I'm Doing
 
-- 🔭 Working on [Websites](https://douxx.xyz/douxx)/[Discord Bots](https://douxx.xyz)/[Utilities](https://piwave.hs.vc) development
-- 🌱 Learning Node.js & Python
-- 📫 How to contact me: [join here:](https://discord.gg/yFgjXbG9zm)
+- 🔭 Working on [**play.echomc.it** ](https://discord.gg/4maur2sMBb)
+- 🌱 Learning c++ and java
+- 📫 How to contact me: [join here](https://discord.gg/yFgjXbG9zm)
 - 
 ## Languages and Tools
 
