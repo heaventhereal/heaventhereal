@@ -2,9 +2,7 @@
 
 ## What I'm working on
 
--  Working on [**play.echomc.it** ](https://discord.gg/4maur2sMBb)
--  Minecraft Plugins
--  How to contact me: **[join here](https://discord.gg/yFgjXbG9zm)**
+- soon
  
 ## Languages and Tools
 
