@@ -2,7 +2,7 @@
 
 ## What I'm working on
 
-- soon
+- nothing
  
 ## Languages and Tools
 
