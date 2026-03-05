@@ -16,6 +16,7 @@
 
 ## I'm currently learning
 <p align="left"> <a href="https://github.com/heaventhereal"><img src="https://skillicons.dev/icons?i=c#"> </a> <a href="https://github.com/heaventhereal"></a> </p>
+<p align="left"> <a href="https://github.com/heaventhereal"><img src="https://skillicons.dev/icons?i=c"> </a> <a href="https://github.com/heaventhereal"></a> </p>
 
 <!--
 **heaventhereal/heaventhereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. https://discord.gg/yFgjXbG9zm
